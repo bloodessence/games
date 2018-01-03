@@ -1,0 +1,64 @@
+body
+{
+    background-color:#931f1d;
+}
+ul
+{
+    position:relative;
+    left:80px;
+}
+#brand
+{
+    color:#f6f2ff;
+}
+.bold
+{
+    font-weight:bold;
+}
+.theSameHeight
+{
+    height:100px;
+    width:100%;
+}
+.thirdHeight
+{
+    height:100px;
+    width:100%;
+}
+#page1
+{
+    background-color:aliceblue;
+}
+#page2
+{
+    background-color:aliceblue;
+}
+
+#page3
+{
+    background-color:aliceblue;
+}
+.blank
+{
+    position:relative;
+    top:200px;
+}
+#prolog
+{
+    padding-top:100px;
+}
+.emailForm {
+            border:1px solid grey;
+            border-radius:10px;
+            margin-top:20px;
+    text-align:center;
+        }
+
+textarea {
+            height:120px;
+        }
+        
+        form {
+            padding-bottom:20px;
+        }
+
